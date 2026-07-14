@@ -91,9 +91,9 @@ The detected text is displayed in the console, while the corresponding text regi
 Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/text-recognition-system.git
+git clone https://github.com/BM-6337/OCR-Text-Recognition-Model.git
 
-cd text-recognition-system
+cd OCR-Text-Recognition-Model
 ```
 
 Install the required dependencies.
